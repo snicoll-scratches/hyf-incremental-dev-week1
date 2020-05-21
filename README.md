@@ -3,7 +3,7 @@
 Here are my team mates:
 
 * [Andy](andy.md)
-* Brian
+* [Brian](brian.md)
 * Madhura
 * Phil
 * Scott
